@@ -1,0 +1,1 @@
+This is my first note stored on Walrus. It connects off-chain content to on-chain Sui state via a blob reference.
